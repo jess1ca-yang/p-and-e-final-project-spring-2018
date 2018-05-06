@@ -1,6 +1,5 @@
-NB: You might find useful the [sample proposal](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
+## #MeToo - Interactive Poster 
 
 My project is an interactive poster about the issues and harassment women face in our society. 
 
@@ -21,15 +20,13 @@ I designed a poster featuring items women commonly have in their purses. For eve
 
 The input is human touch/pressure and power. The output is audio. The data stored is the audio files.
 
-![Final poster design](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/poster-blocksfinal-02.png)
+![block poster](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/poster-blocksfinal-02.png)
 
 ## Challenges
 
 The biggest challenge for me was trying to figuring out how to trigger sound with touch. I originally tried to use code for it, but I couldn't figure out how to make it completely work, nor could I upload it onto the Adafruit Audio FX Sound Board I was using for sound. Thus, I decided to make the triggering based on physical contact. I wrapped the two ends of the wires (GND and PIN#) in copper tape, aluminum foil, and coins for conductivity. One end was mounted on the poster side, and the other was on the hard backing behind, so when the viewer pressed down on a certain spot of poster, the force would cause the two sides to touch and trigger the sound.
 
 ## Timeline
-
-What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
 - Week 2: Acquired parts and started creating poster
@@ -42,6 +39,8 @@ What did you do in each of the past five weeks?
 ![Final poster design](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/interactiveposter%20-%20FINAL.png)
 ![poster 1](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/poster_closeup.JPG)
 ![poster 1](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/poster.JPG)
+
+Video: https://www.dropbox.com/sh/z78jsofmnqo9i56/AACNtv7Dw6Blin-_NXiC7DKXa?dl=0&preview=IMG_1415.m4v
 
 ## References and links
 
