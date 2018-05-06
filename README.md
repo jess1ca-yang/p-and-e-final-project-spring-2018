@@ -40,7 +40,8 @@ What did you do in each of the past five weeks?
 ## Completed Work
 
 ![Final poster design](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/interactiveposter%20-%20FINAL.png)
-
+![Alt text](relative/path/to/https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/poster_closeup.JPG?raw=true "Title")
+![poster image 2](https://github.com/jess1ca-yang/p-and-e-final-project-spring-2018/blob/master/interactiveposter%20-%20FINAL.png)
 
 ## References and links
 
